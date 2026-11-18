@@ -1,6 +1,6 @@
-========================================
-           GIT VS GITHUB
-========================================
+
+# GIT VS GITHUB          
+
 
 # GIT :
 ----
@@ -18,17 +18,15 @@
 
 # DIFFÉRENCE :
 -----------
-Git = Gestion des versions.
-GitHub = Hébergement et partage du code.
+- Git = Gestion des versions.
+- GitHub = Hébergement et partage du code.
 
 # COMMANDES ESSENTIELLES :
 -----------------------
-git init     : Initialiser un dépôt.
-git add .    : Ajouter les modifications.
-git commit   : Enregistrer les modifications.
-git push     : Envoyer vers GitHub.
+- git init     : Initialiser un dépôt.
+- git add .    : Ajouter les modifications.
+- git commit   : Enregistrer les modifications.
+- git push     : Envoyer vers GitHub.
+- mkdir nom_dossier  : Créer un nouveau dossier.
+- cd nom_dossier     : Entrer dans un dossier..
 
-mkdir nom_dossier  : Créer un nouveau dossier.
-cd nom_dossier     : Entrer dans un dossier..
-
-========================================
