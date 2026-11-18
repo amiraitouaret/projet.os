@@ -29,6 +29,6 @@ git commit   : Enregistrer les modifications.
 git push     : Envoyer vers GitHub.
 
 mkdir nom_dossier  : Créer un nouveau dossier.
-cd nom_dossier     : Entrer dans un dossier.
+cd nom_dossier     : Entrer dans un dossier..
 
 ========================================
